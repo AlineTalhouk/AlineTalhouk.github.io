@@ -1,5 +1,6 @@
-baseurl = "https://alinetalhouk.github.io"
+baseurl = "http://www.alinetalhouk.com"
 title = "Aline Talhouk"
+relativeURLs = true
 copyright = "&copy; 2018 Aline Talhouk"
 theme = "hugo-academic"
 enableEmoji = true
@@ -22,7 +23,7 @@ defaultContentLanguageInSubdir = false
 [params]
   name = "Aline Talhouk"
   description = "my academic website"
-  role = "Assistant Professor, Department of Gynecology and Obstetrics - OVCARE Director of Informatics and Outcomes Research"
+  role = "Assistant Professor, Department of Gynecology and Obstetrics - Director of Informatics and Research, OVCARE"
   organization = "University of British Columbia"
   organization_url = "https://www.ubc.ca"
   avatar = "AlineImage.jpg"
@@ -171,20 +172,20 @@ defaultContentLanguageInSubdir = false
   url = "#publications"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
-[[menu.main]]
-  name = "Talks & Workshops"
-  url = "#talks"
-  weight = 4
+#[[menu.main]]
+#  name = "Talks & Workshops"
+#  url = "#talks"
+#  weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
